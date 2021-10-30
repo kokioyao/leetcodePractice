@@ -7,6 +7,7 @@ package cn.footman.leetcode;
 public class Solution27 {
     public int removeElement(int[] nums, int val) {
 
+//        change something
         int n = nums.length;
         int k = 0;
         for(int i = 0; i < n; i++){
