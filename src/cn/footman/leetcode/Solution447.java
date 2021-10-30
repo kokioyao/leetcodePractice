@@ -8,6 +8,7 @@ import java.util.Map;
  * @create 2018-11-22 16:28
  */
 public class Solution447 {
+//nothing
     public int numberOfBoomerangs(int[][] points) {
 
         int res = 0;
